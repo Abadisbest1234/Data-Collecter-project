@@ -1,4 +1,5 @@
 # this is the main file for the database app
+# Made by Abdul Abad Qureshi (Abad-TB 2021 - 2025)
 print("Welcome to my database app!")
 print("We will be asking you some questions to get started.")
 ## Collecting user information
